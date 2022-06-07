@@ -101,12 +101,16 @@
     .container {
         width: 70%;
         text-align: center;
-        margin: 41px;
+        margin: 13px;
     }
 
     p {
         font-size: 2.5rem;
         color: blue;
         font-family: "Indie Flower", cursive;
+    }
+
+    .side{
+        display: flex;
     }
 }
