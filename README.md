@@ -1,11 +1,11 @@
-# My Rock Paper and Scissor Game Project using JavaScript
+# My Dice Game Project using JavaScript
 Introduction : 
 
-Rock, paper, and scissors game is a simple fun game in which both the players have to make a rock, paper, or scissors. It has only two possible outcomes a draw, or a win for one player and a loss for the other player. We will be designing the game using JavaScript where a player will be playing against the computer. In total there will be 10 moves. The player has to choose one option among the rock, paper, and scissors. A random option will be generated from the computer’s side and the one who wins will get one point every time. After 10 moves are over the final result will be displayed on the screen with a button to restart the game. The game will be completely responsive so that it can be played on every device.
+Dice game is a simple fun game in which both the players have to see who get the highest score.  It has only two possible outcomes a draw, or a win for both players. We will be designing the game using JavaScript where a player will be playing against the computer. The player has to choose name and roll a die. A random option will be generated from the computer’s side and the one who has the highest score wins and will get one point every time. The game will be completely responsive so that it can be played on every device.
 
 **Link to project:** https://savicode-dicegame.netlify.app/
 
-![alt tag](https://pasteboard.co/d8kwNGNP4xD8.png)
+![alt tag](https://i.postimg.cc/yYwz0cJ9/Screenshot-70.png)
 
 ## How It's Made:
 We will be building a Dice Game Project using HTML, CSS, and JavaScript. The Dice Game is based on a two-player. Both players roll the dice and the player who gets the highest phase value will win the game.
