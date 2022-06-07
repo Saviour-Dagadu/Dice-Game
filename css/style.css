@@ -77,14 +77,30 @@
     }
     .butn{
         top: 200px;
-        width: 70vw;
+        width: 63vw;
     }
 
     img {
-        width: 66%;
+        width: 100%;
     }
-    
+
     .dice{
-        width: 50vw;
+        width: 55vw;
+        margin: 10px 0px 10px 45px;
+    }
+
+    h1 {
+        margin: 30px;
+        font-family: "Lobster", cursive;
+        text-shadow: 5px 0 #232931;
+        font-size: 2.5rem;
+        color: white;
+        text-align: center;
+    }
+
+    .container {
+        width: 70%;
+        text-align: center;
+        margin: 30px;
     }
 }
