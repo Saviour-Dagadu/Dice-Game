@@ -1,0 +1,63 @@
+	.container {
+		width: 70%;
+		margin: auto;
+		text-align: center;
+	}
+
+	.dice {
+		text-align: center;
+		display: inline-block;
+		margin: 10px;
+	}
+
+    .Player1, .Player2{
+        color: lawngreen;
+    }
+
+	body {
+		background-color: #042f4b;
+        background-image: url(https://i.gifer.com/Dv9E.gif);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+		margin: 0;
+	}
+
+	h1 {
+		margin: 30px;
+		font-family: "Lobster", cursive;
+		text-shadow: 5px 0 #232931;
+		font-size: 4.5rem;
+		color: green;
+		text-align: center;
+	}
+
+	p {
+		font-size: 2rem;
+		color: green;
+		font-family: "Indie Flower", cursive;
+	}
+
+	img {
+		width: 100%;
+	}
+
+	.bottom {
+		padding-top: 30px;
+	}
+
+	.butn {
+		background: green;
+		font-family: "Indie Flower", cursive;
+		border-radius: 7px;
+		color: #ffff;
+		font-size: 30px;
+		padding: 16px 25px 16px 25px;
+		text-decoration: none;
+	}
+
+	.butn:hover {
+		background: #232931;
+		text-decoration: none;
+        cursor: pointer;
+	}
