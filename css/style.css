@@ -28,7 +28,7 @@
 
     .Player1, .Player2{
         color: black;
-        background-color: lightblue;
+        background-color: lawngreen;
         padding: 10px;
         border-radius: 5px;
         border: 2px solid black;
@@ -58,7 +58,7 @@
     }
   
     .butn {
-        background: blue;
+        background: green;
         font-family: "Indie Flower", cursive;
         border-radius: 7px;
         color: #ffff;
