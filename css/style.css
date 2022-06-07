@@ -68,3 +68,23 @@
         background: #232931;
         text-decoration: none;
     }
+
+    /* Responsive Design */
+@media screen and (max-width: 612px)
+{ 
+    .title{
+        text-align: center;
+    }
+    .butn{
+        top: 200px;
+        width: 70vw;
+    }
+
+    img {
+        width: 66%;
+    }
+    
+    .dice{
+        width: 50vw;
+    }
+}
