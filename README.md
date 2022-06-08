@@ -5,7 +5,7 @@ Dice game is a simple fun game in which both the players have to see who get the
 
 **Link to project:** https://savicode-dicegame.netlify.app/
 
-![alt tag](https://i.postimg.cc/NjBJ8Bcc/Screenshot-73.png)
+![alt tag](https://i.postimg.cc/DzfmVC9G/Screenshot-77.png)
 
 ## How It's Made:
 We will be building a Dice Game Project using HTML, CSS, and JavaScript. The Dice Game is based on a two-player. Both players roll the dice and the player who gets the highest phase value will win the game.
